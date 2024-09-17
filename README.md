@@ -48,3 +48,5 @@ Here are the technical tools I used throughout this project:
 - **Git & GitHub**: For version control and sharing SQL scripts.
 
 ---
+<img width="1440" alt="Screenshot 2024-09-17 at 11 21 22 AM" src="https://github.com/user-attachments/assets/ed0e454c-0416-4189-a744-4100d186ca3d">
+
