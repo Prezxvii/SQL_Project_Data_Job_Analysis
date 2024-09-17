@@ -1,46 +1,50 @@
-**Introduction**
 
-**The Queries**
+---
 
-The queries included in this section are for two main parts of the video:
+# Introduction
 
-1.Advanced Section
-2.Portfolio Project
+This repository includes SQL queries from two key parts of the project:
 
-The basics section queries are not included here.
+1. **Advanced Section**
+2. **Portfolio Project**
 
-**Advanced Section**
+The queries for the basics section are not included here.
 
-These are the the main queries in the advanced section. View there here: advanced_sql_folder.
+## Advanced Section
 
-The advanced section focused on:
+These are the main queries from the advanced section. You can view them in the `advanced_sql_folder`.
+
+The advanced section covers:
 
 - How to Run a Database in PostgreSQL
 - Data Types
-- Manipulate Tables
+- Manipulating Tables
 - Handling Dates
-- Case Expression
+- Case Expressions
 - Subqueries and CTEs
 - UNION Operators
 
-  **Portfolio Project**
+## Portfolio Project
 
-These queries are for the portfolio project. View them here: project_sql folder.
+The queries for the portfolio project are located in the `project_sql_folder`.
 
-The goal of the project was to navigate the data analyst job market more effectively. And to pinpoint top-paid and in-demand skills and find optimal jobs.
+The goal of the project was to better navigate the data analyst job market, identify top-paying and in-demand skills, and find optimal job opportunities.
 
-The questions to answer were:
+### Key Questions Addressed:
 
-What are the top-paying data analyst jobs?
-What skills are required for these top-paying jobs?
-What skills are most in demand for data analysts?
-Which skills are associated with higher salaries? W5. hat are the most optimal skills to learn?
+- What are the top-paying data analyst jobs?
+- What skills are required for these top-paying jobs?
+- What skills are most in demand for data analysts?
+- Which skills are associated with higher salaries?
+- What are the most optimal skills to learn?
 
-**Tools I Used**
+## Tools I Used
 
-Below are the technical tools I used for this course.
+Here are the technical tools I used throughout this project:
 
-**SQL**: The backbone of the course, which lets me query the database.
-**PostgreSQL**: The chosen database management system, ideal for handling the job posting data.
-**Visual Studio Code**: For database management and executing SQL queries.
-**Git & GitHub**: Version control and sharing my SQL scripts..
+- **SQL**: The core of the project, used to query the database.
+- **PostgreSQL**: The database management system chosen for handling job posting data.
+- **Visual Studio Code**: Used for managing the database and executing SQL queries.
+- **Git & GitHub**: For version control and sharing SQL scripts.
+
+---
