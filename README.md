@@ -8,7 +8,7 @@ This repository includes SQL queries from two key parts of the project:
 1. **Advanced Section**
 2. **Portfolio Project**
 
-The queries for the basics section are not included here.
+
 
 ## Advanced Section
 
